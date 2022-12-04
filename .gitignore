@@ -1,3 +1,2 @@
-*.pyo
-*.pyc
-.env
+.vscode
+__pycache__
